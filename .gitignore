@@ -19,3 +19,15 @@
 
 # Go workspace file
 go.work
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode
+
+# IntelliJ
+.idea
+
+# vim
+*.swp
