@@ -1,6 +1,8 @@
 module github.com/raksul/go-testclient
 
-go 1.21.0
+// Specify to the minimum version that is supported in testing.
+// .github/workflows/test.yml
+go 1.20.0
 
 require github.com/stretchr/testify v1.8.4
 
